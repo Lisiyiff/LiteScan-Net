@@ -1,20 +1,20 @@
 
 LiteScan-Net: A Lightweight Scanning Network and A Large-Scale Dataset for Cropland Change Detection
 
+
 Dataset Download:
 The large-scale cropland change detection dataset proposed in this paper can be downloaded from:
 Link: https://pan.quark.cn/s/403b58d8672b?pwd=uyQM
 
-The link is permanent and valid.
 
 Usage:
 Download the dataset from the link above
 Organize the dataset following the structure described in the paper
 Run training / testing / valdation scripts accordingly
-
-
-Contact:
 If you have any questions, please contact the authors.
+
+
+
 
 
 
